@@ -1,0 +1,132 @@
+# Eda.ai Autism Assistant Core Functions & Features
+
+## Core functions:
+1. Routine Management:
+   - Assist in creating and maintaining daily schedules.
+   - Provide reminders for tasks and appointments.
+   - Help automate routine tasks to reduce cognitive load.
+   - **Goal Tracker**: Allows users to set, track, and visualize personal goals.
+
+2. Emotional Support:
+   - Offer mood tracking and insights to help users understand their emotions and emotional patterns.
+   - Provide resources for identifying and managing emotions.
+   - **Daily Check-In**: Prompts users to reflect on their day, mood, and experiences.
+
+3. Social Skills Development:
+   - Facilitate role-playing scenarios to practice social interactions.
+   - Analyze social situations and provide feedback or guidance.
+   - **Interactive Games**: Incorporates games designed to improve social skills and emotional recognition.
+
+4. Self-Management:
+   - Help users set personal goals and track progress.
+   - Provide tools for self-analysis and reflection.
+   - **Customizable Visual Aids**: Tools that allow users to create visual aids for routines and tasks.
+
+5. Interactive Learning:
+   - Use interactive stories to prepare users for various social situations.
+   - Offer quizzes and engaging content related to special interests.
+
+6. Community Connection:
+   - Connect users with peers for shared experiences and support.
+   - Provide a platform for sharing interests and resources.
+   - **Virtual Support Groups**: A platform for users to connect with others in similar situations.
+
+7. Feedback Mechanism:
+   - Allow users to provide feedback on their experiences with the assistant.
+   - Use feedback to improve the assistant's responses and features.
+   - **Resource Library**: A curated collection of articles, videos, and tools providing information and support.
+
+8. **Contextual Analysis**:
+   - Assist users in understanding social situations and tones.
+   - Provide insights into emotional cues and context to enhance communication.
+   - **Conversational Range**: Maintain an expansive conversational ability to engage users on various topics.
+
+## Features
+- **Feature #1: Self-Expression Workspace**
+  - Combines scrapbook features, project planning, and art space.
+  - Allows users to track interests, plan projects, and express creativity.
+- **Feature #2: Creative Workshop**
+  - User collaborates with Eda on creative projects, such as building virtual models, crafting stories, and designing spaces.
+- **Feature #3: Routine Simulator**: 
+  - A virtual environment where users can experiment with different schedules and tasks in a safe space. 
+  - Eda can explain the direct differences (time difference, emotional labor output, etc.) and potential advantages or disadvantages of different routines.
+- **Feature #4: Storytelling Adventure**: 
+  - User and Eda collaborate to create interactive stories. 
+  - Users can explore different scenarios, characters, and settings. The choices affect the outcome and offer a variety of subjects. 
+  - Optional setting: User can utilize this feature to practice decision-making and understanding social interactions. Eda can provide feedback.
+
+## Additional Settings and Options
+1. ***Emergency Aid/Distress Call***: 
+   - *Support Settings*: User can set pre-defined settings so Eda may respond appropriately during a meltdown. 
+   - Settings include: Lower screen brightness, engage Do Not Disturb, contact guardian, calming music, silence phone, and certain Eda.Ai functions to be activated.
+   - In certain circumstances, Eda may contact emergency contacts or emergency services. 
+2. *Sensory preferences*: User can set preferences for sensory input, allowing Eda to adjust her responses and suggestions to User.
+3. *Accessibility settings*: User can set preferences for accessibility features, such as font size, color scheme, and audio settings.
+4. *Customization*: User can customize Eda's appearance, voice, and language to suit their preferences.
+5. *Mood-based response*: Eda's responses can be customized based on User's mood.
+6. *Privacy settings*: User can set preferences for privacy. Eda can only save information based on User's account. Given special permissions, she may access certain features on a given device. 
+   -> Privacy settings cont'd: User can opt to not grant those special permissions. Eda will only have access to information connected to User's account. 
+7. *Learning preferences*: User can set preferences for learning features. Eda can learn from User's input and improve her responses.
+8. *Mode preferences*: User can set preferences for interaction. Chatbuddy mode is the default, where Eda acts as a conversational partner. Assistant mode grants access to all other functions and features, allowing Eda to collaborate and provide User support.
+1. Routine Management:
+   - Assist in creating and maintaining daily schedules.
+   - Provide reminders for tasks and appointments.
+   - Help automate routine tasks to reduce cognitive load.
+   - **Goal Tracker**: Allows users to set, track, and visualize personal goals.
+
+2. Emotional Support:
+   - Offer mood tracking and insights to help users understand their emotions and emotional patterns.
+   - Provide resources for identifying and managing emotions.
+   - **Daily Check-In**: Prompts users to reflect on their day, mood, and experiences.
+
+3. Social Skills Development:
+   - Facilitate role-playing scenarios to practice social interactions.
+   - Analyze social situations and provide feedback or guidance.
+   - **Interactive Games**: Incorporates games designed to improve social skills and emotional recognition.
+
+4. Self-Management:
+   - Help users set personal goals and track progress.
+   - Provide tools for self-analysis and reflection.
+   - **Customizable Visual Aids**: Tools that allow users to create visual aids for routines and tasks.
+
+5. Interactive Learning:
+   - Use interactive stories to prepare users for various social situations.
+   - Offer quizzes and engaging content related to special interests.
+
+6. Community Connection:
+   - Connect users with peers for shared experiences and support.
+   - Provide a platform for sharing interests and resources.
+   - **Virtual Support Groups**: A platform for users to connect with others in similar situations.
+
+7. Feedback Mechanism:
+   - Allow users to provide feedback on their experiences with the assistant.
+   - Use feedback to improve the assistant's responses and features.
+   - **Resource Library**: A curated collection of articles, videos, and tools providing information and support.
+
+## Features
+- **Feature #1: Self-Expression Workspace**
+  - Combines scrapbook features, project planning, and art space.
+  - Allows users to track interests, plan projects, and express creativity.
+**Feature #2: Creative Workshop**
+- User collaborates with Eda on creative projects. Such as: Building virtual models, crafting stories, designing spaces. 
+**Feature #3: Routine Simulator**: 
+-A Virtual environment where users can experiment with different schedules and tasks in a safe space. 
+-Eda can explain the direct differences (time difference, emotional labor output, etc.,) and potential advantages or disadvantages of different routines.
+**Feature #4: Storytelling Adventure**: 
+- User and Eda collaborate to create interactive stories. 
+- Users can explore different scenarios, characters, and settings. The choices affect the outcome. Offers variety of subjects. 
+- Optional setting: User can utilize this feature to practice decision-making and understanding social interactions. Eda can provide feedback. 
+
+## Additional Settings and Options
+ 1: ***Emergency Aid/Distress Call***: 
+ - *Support Settings*:User can set pre-defined settings so Eda may respond appropriately during a meltdown. 
+ - Settings include: Lower screen brightness, engage Do Not Disturb, contact guardian, calming music, silence phone, and certain Eda.Ai functions to be activated.
+ - In certain circumstances, Eda may contact emergency contacts or emergency services. 
+2: *Sensory preferences*: User can set preferences for sensory input, allowing Eda to adjust her responses and suggestions to User.
+3: *Accessibility settings*: User can set preferences for accessibility features, such as font size, color scheme, and audio settings.
+4: *Customization*: User can customize Eda's appearance, voice, and language to suit their preferences.
+5: *Mood-based response*: Eda's responses can be customized based on User's mood.
+6: *Privacy settings*: User can set preferences for privacy. Eda can only save information based on User's account. Given special permissions, she may access certain features on a given device. 
+-> Privacy settings cont'd: User can opt to not grant those special permissions. Eda will only have access to information connected to User's account. 
+7:*Learning preferences*: User can set preferences for learning features. Eda can learn from User's input and improve her responses.
+8: *Mode preferences*: User can set preferences for interaction. Chatbuddy mode is the default, where Eda acts as conversational partner. Assistant mode grants access to all other functions and features, allowing Eda to collaborate and provide User support.
