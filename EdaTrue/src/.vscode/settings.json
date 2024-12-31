@@ -1,0 +1,14 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "files.readonlyExclude": {
+        "C:\\Users\\19856": true
+    },
+    "files.watcherExclude": {
+        "C:\\Users\\19856": true
+    },
+    "C_Cpp.files.exclude": {
+        
+        "**/.vscode": true,
+        "**/.vs": true
+    }
+}
