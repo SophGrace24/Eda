@@ -1,0 +1,177 @@
+Routine Management System Blueprint
+
+1. Feature Prioritization
+   Phase 1 (Core Functionality):
+   - Daily schedule view
+   - Task creation and management
+   - Gentle reminders
+   - Basic progress tracking
+   - Quick add buttons for common tasks
+   - Time block suggestions
+   - Basic task templates
+   - Visual feedback:
+     * Color-coded task categories
+     * Gentle animations
+   - Quick Start & Tutorial:
+     * Interactive first-time setup
+     * Eda-guided sample schedule creation
+     * Chat-bubble tutorials
+   - Feedback Mechanism:
+     * In-app feedback form
+     * Bug reporting
+     * Feature suggestions
+   - Accessibility Features:
+     * Screen reader support
+     * Keyboard shortcuts
+     * Adjustable animation speed
+     * Colorblind-friendly themes
+     * Text scaling options
+   - UI Enhancements:
+     * Progress bar for task completion
+     * Visual indicators for overdue tasks
+     * Quick view for task details
+
+   Phase 2 (Essential Features):
+   - Recurring tasks
+   - Task categories
+   - Planner feature
+   - Garden rewards integration
+   - Quick task templates:
+     * Predefined templates (Morning Routine, Work Block, etc.)
+     * Combined task chunks with total time
+     * Visual representation as single blocks
+   - Enhanced interaction:
+     * Eda explains Routine Manager features
+     * Access through conversation system
+     * Guided setup process
+
+   Phase 3 (Advanced Features):
+   - Customizable reminders
+   - Progress visualization
+   - Advanced planner templates
+   - Calendar integration
+   - Routine challenges:
+     * Optional daily/weekly challenges
+     * Variety of types (social, sensory, routine)
+     * Gentle encouragement system
+     * Virtual garden rewards
+   - Theme Customization:
+     * Galaxy Theme:
+       - Space background
+       - White elements with black text
+       - Starry animations
+     * Secretary Theme:
+       - Black and white color scheme
+       - Times New Roman font
+       - Minimalist office aesthetic
+     * Sky Theme:
+       - Sunset colors
+       - Cloud-shaped buttons
+       - Gentle sky animations
+   - Mood-Based Scheduling:
+     * Adjust tasks based on user's mood
+     * Offer alternative tasks for low-energy days
+     * Suggest energy-appropriate activities
+   - AI-Powered Insights:
+     * Analyze schedule patterns
+     * Suggest optimizations
+     * Predict busy periods
+
+
+     **Possible Future Advanced Feature**
+   - Natural Language Scheduling:
+     * User inputs daily goals in natural language
+     * Eda breaks goals into scheduled tasks
+     * Visual representation with color-coded flowers
+     * Feminine, nature-inspired design theme
+
+2. UI Design Principles
+   - Clean, minimalist layout
+   - Soothing color palette (pastels)
+   - Easy-to-read sans-serif fonts
+   - Gentle animations for transitions
+   - Consistent spacing and alignment
+   - Clear visual hierarchy
+
+3. UI Layout
+   Overall Structure:
+   - Header:
+     * Current date display
+     * Quick navigation (today, previous/next day)
+     * Settings icon
+   - Main Content:
+     * Full-screen daily view by default
+     * Smooth vertical scrolling between days
+     * Color-coded task categories
+     * Visual time blocks for tasks
+     * Quick navigation bar for week view
+   - Footer:
+     * Floating "+" button for task creation
+     * Quick access to planner
+     * Garden progress indicator
+
+   Visual Design:
+   - Color Palette:
+     * Primary: Soft blue (#8ECAE6)
+     * Secondary: Pastel green (#A8D5BA)
+     * Accent: Light purple (#CABBE9)
+     * Background: Off-white (#F8F9FA)
+   - Typography:
+     * Primary font: Open Sans
+     * Base size: 16px
+     * Heading sizes: 24px, 20px, 18px
+   - Spacing:
+     * Padding: 16px
+     * Margins: 8px, 16px, 24px
+   - Icons:
+     * Simple line-style
+     * Consistent stroke width
+     * Accessible size (24px)
+
+   Interaction Design:
+   - Smooth transitions between views (300ms)
+   - Gentle animations for task interactions
+   - Clear visual feedback for user actions
+   - Accessible touch targets (minimum 48px)
+   - Keyboard navigation support
+   - High contrast mode for accessibility
+
+   Task Creation:
+   - "+" button opens modal form
+   - Form fields:
+     * Task name (required)
+     * Category (required)
+     * Time slot (required)
+     * Time allotted (optional)
+     * Reminder type (visual, audio, both)
+     * Recurrence options (daily, weekly, custom)
+     * Priority level (optional)
+   - "Create" button adds task to timeline
+   - Drag-and-drop positioning
+   - Visual feedback on drop zones
+   - Gentle animations for task creation
+   - Quick edit on task click
+
+4. Core Functionality
+   - Drag-and-drop task arrangement
+   - Time slot allocation
+   - Gentle reminder system
+   - Progress tracking and visualization
+   - Planner integration with schedule
+   - Stress-free task management
+
+5. Integration Points
+   - Conversation system:
+     * Reminder notifications
+     * Task status queries
+   - Virtual Garden:
+     * Reward points for:
+       - Project completion
+       - Challenge completion
+       - Daily routine adherence
+       - Weekly routine consistency
+     * Progress visualization
+     * Milestone celebrations
+   - Knowledge Base:
+     * Task suggestions
+     * Routine optimization tips

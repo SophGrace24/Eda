@@ -1,0 +1,32 @@
+Simplified Routine Management Features
+
+1. Core Schedule Management
+   - Daily view with time slots
+   - Recurring task automation
+   - Drag-and-drop interface
+   - Color-coded task categories
+
+2. Basic Task Features
+   - Task categories (Work, Personal, Health)
+   - Priority levels (High, Medium, Low)
+   - Simple task creation
+   - Task completion tracking
+
+3. Essential Reminders
+   - Gentle transition warnings
+   - Customizable reminder tones
+   - Text-to-speech notifications
+   - Visual alerts
+
+4. Planner Feature
+   - Project templates (To-Do List, Brainstorm, Step-by-Step)
+   - Note-taking section
+   - Task breakdown
+   - Deadline tracking
+   - Progress visualization
+
+5. Basic Integration
+   - Garden rewards for completion
+   - Progress tracking
+   - Conversation reminders
+   - Sensory-friendly interface
