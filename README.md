@@ -1,3 +1,4 @@
+<!-- This is a sample change to demonstrate GitHub workflow -->
 # Eda AI Assistant
 
 A simple AI assistant project for autistic individuals.
