@@ -1,0 +1,62 @@
+F.Eda - Friendly Eda AI Assistant
+
+Project Overview:
+F.Eda is a simple yet powerful AI assistant designed to help autistic individuals with maximum impact using minimal resources.
+
+Core Functions:
+
+1. Advanced Conversational Skills:
+   - Explain true meanings behind words and phrases
+   - Clarify idioms and metaphors
+   - Provide context for social interactions
+   - Offer alternative phrasing suggestions
+   - Conversation practice with different scenarios (Including mock-interviews)
+   - Social cue explanations
+   - Emotion recognition and response guidance
+   - Role-playing exercises
+
+2. Enhanced Routine Management:
+   - Visual schedule with transition warnings
+   - Step-by-step task breakdowns
+   - Gentle countdowns for task changes
+   - Customizable transition routines
+   - Progress tracking for habits
+   - Break time suggestions
+
+3. Virtual Garden Reward System:
+   - Earn plants for completed tasks
+   - Watch garden grow over time
+   - Customize garden layout
+   - Track progress through plant growth
+   - Calming interactive visual screens
+   - Soothing soundscapes (nature sounds, white noise)
+   - Sensory break suggestions
+   - Stress level monitoring and intervention
+
+4. Accessibility Essentials:
+   - Simple, clean interface
+   - Customizable interaction styles
+   - Text-to-speech and speech-to-text
+   - Visual and audio feedback options
+
+Development Strategy:
+
+Phase 1: MVP (2 months)
+- Basic conversation system
+- Simple routine management
+- Virtual garden framework
+
+Phase 2: Core Features (3 months)
+- Advanced conversation skills
+- Enhanced transition support
+- Garden customization options
+
+Phase 3: Optimization (1 month)
+- Performance improvements
+- User feedback implementation
+- Resource optimization
+
+Next Steps:
+1. Design conversation system architecture
+2. Create virtual garden prototype
+3. Develop transition management features

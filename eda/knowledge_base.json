@@ -1,0 +1,304 @@
+{
+    "facts": {
+        "autism": [
+            "Autism is a neurodevelopmental disorder that affects communication and behavior.",
+            "Early intervention can help individuals with autism develop important skills.",
+            "Autism is a spectrum disorder, meaning it affects individuals differently.",
+            "Sensory sensitivities are common in individuals with autism.",
+            "Many individuals with autism have special interests they are passionate about."
+        ],
+        "routines": [
+            "Consistent routines can help individuals with autism feel more secure.",
+            "Visual schedules can be helpful for maintaining daily routines.",
+            "Breaking tasks into smaller steps can make routines more manageable.",
+            "Transition warnings can help prepare for changes in routine.",
+            "Using timers can help with time management in routines."
+        ],
+        "social_skills": [
+            "Social skills can be learned through practice and role-playing.",
+            "Understanding social cues takes time and patience.",
+            "Social stories can help explain social situations.",
+            "Practicing conversations in safe environments can build confidence.",
+            "Learning to recognize emotions in others is an important social skill."
+        ],
+        "sensory": [
+            "Many individuals with autism experience sensory sensitivities.",
+            "Creating a sensory-friendly environment can reduce stress.",
+            "Noise-canceling headphones can help with auditory sensitivities.",
+            "Weighted blankets can provide calming sensory input.",
+            "Fidget tools can help with focus and self-regulation."
+        ]
+    },
+    "topics": {
+        "autism": ["autism", "spectrum", "neurodiversity", "ASD"],
+        "routines": ["routine", "schedule", "daily", "structure"],
+        "social_skills": ["social", "conversation", "interaction", "communication"],
+        "sensory": ["sensory", "sensitivity", "stimulation", "overload"]
+    },
+    "qa_pairs": [
+        {
+            "question": "What is autism?",
+            "answer": "Autism is a neurodevelopmental disorder that affects communication and behavior."
+        },
+        {
+            "question": "How can routines help?",
+            "answer": "Routines provide structure and predictability, which can reduce anxiety."
+        },
+        {
+            "question": "How can I improve social skills?",
+            "answer": "Practice social interactions through role-playing and social stories."
+        },
+        {
+            "question": "What are sensory sensitivities?",
+            "answer": "Sensory sensitivities are when certain sounds, lights, or textures feel overwhelming or uncomfortable."
+        },
+        {
+            "question": "How can I manage sensory overload?",
+            "answer": "Creating a calm environment, using noise-canceling headphones, and taking breaks can help manage sensory overload."
+        }
+    ],
+    "sources": [
+        {
+            "name": "Autism Speaks",
+            "url": "https://www.autismspeaks.org"
+        },
+        {
+            "name": "National Autistic Society",
+            "url": "https://www.autism.org.uk"
+        },
+        {
+            "name": "Autism Research Institute",
+            "url": "https://www.autism.org"
+        }
+    ],
+    "learning_strategies": [
+        {
+            "type": "social",
+            "methods": ["role-playing", "social stories", "video modeling"]
+        },
+        {
+            "type": "sensory",
+            "methods": ["sensory breaks", "weighted blankets", "fidget tools"]
+        },
+        {
+            "type": "communication",
+            "methods": ["visual supports", "PECS", "social scripts"]
+        }
+    ],
+    "daily_living_skills": [
+        {
+            "skill": "Personal hygiene",
+            "steps": [
+                "Create a visual schedule for hygiene routines",
+                "Use step-by-step instructions",
+                "Practice each step individually"
+            ]
+        },
+        {
+            "skill": "Meal preparation",
+            "steps": [
+                "Start with simple recipes",
+                "Use visual recipe cards",
+                "Practice kitchen safety skills"
+            ]
+        }
+    ],
+    "emotional_regulation": [
+        {
+            "strategy": "Identifying emotions",
+            "methods": [
+                "Use emotion charts or wheels",
+                "Practice recognizing facial expressions",
+                "Discuss feelings in different situations"
+            ]
+        },
+        {
+            "strategy": "Calming techniques",
+            "methods": [
+                "Deep breathing exercises",
+                "Progressive muscle relaxation",
+                "Using a calm-down corner"
+            ]
+        }
+    ],
+    "executive_functioning": [
+        {
+            "skill": "Task initiation",
+            "strategies": [
+                "Use visual timers",
+                "Break tasks into smaller steps",
+                "Create a 'start routine'"
+            ]
+        },
+        {
+            "skill": "Organization",
+            "strategies": [
+                "Use color-coded systems",
+                "Implement daily checklists",
+                "Create designated spaces for items"
+            ]
+        }
+    ],
+    "scenarios": [
+        {
+            "situation": "Going to the grocery store",
+            "steps": [
+                "Make a shopping list",
+                "Practice navigating the store",
+                "Prepare for sensory stimuli"
+            ]
+        },
+        {
+            "situation": "Attending a social event",
+            "steps": [
+                "Preview the event details",
+                "Practice conversation starters",
+                "Plan for breaks if needed"
+            ]
+        }
+    ],
+    "transition_strategies": [
+        {
+            "situation": "Changing activities",
+            "strategies": [
+                "Use visual timers",
+                "Provide verbal warnings",
+                "Create transition routines"
+            ]
+        },
+        {
+            "situation": "Moving to a new environment",
+            "strategies": [
+                "Visit the new place beforehand",
+                "Create a social story",
+                "Bring familiar items"
+            ]
+        }
+    ],
+    "self_advocacy": [
+        {
+            "skill": "Expressing needs",
+            "methods": [
+                "Practice using 'I' statements",
+                "Create a needs communication card",
+                "Role-play different scenarios"
+            ]
+        },
+        {
+            "skill": "Setting boundaries",
+            "methods": [
+                "Learn to say 'no' politely",
+                "Practice assertive communication",
+                "Identify personal limits"
+            ]
+        }
+    ],
+    "community_participation": [
+        {
+            "activity": "Using public transportation",
+            "steps": [
+                "Practice the route beforehand",
+                "Use visual schedules",
+                "Prepare for sensory challenges"
+            ]
+        },
+        {
+            "activity": "Participating in community events",
+            "steps": [
+                "Research the event details",
+                "Plan for breaks if needed",
+                "Bring comfort items"
+            ]
+        }
+    ],
+    "additional_scenarios": [
+        {
+            "situation": "Visiting the doctor",
+            "steps": [
+                "Prepare questions in advance",
+                "Bring comfort items",
+                "Practice explaining symptoms"
+            ]
+        },
+        {
+            "situation": "Handling unexpected changes",
+            "steps": [
+                "Practice coping strategies",
+                "Use a 'plan B' approach",
+                "Implement calming techniques"
+            ]
+        }
+    ],
+    "employment_skills": [
+        {
+            "skill": "Job searching",
+            "strategies": [
+                "Create a resume with clear strengths",
+                "Practice interview skills",
+                "Research potential employers"
+            ]
+        },
+        {
+            "skill": "Workplace communication",
+            "strategies": [
+                "Practice professional email writing",
+                "Learn to ask for clarification",
+                "Understand workplace social norms"
+            ]
+        }
+    ],
+    "independent_living": [
+        {
+            "skill": "Budgeting",
+            "steps": [
+                "Track income and expenses",
+                "Create a spending plan",
+                "Use budgeting apps"
+            ]
+        },
+        {
+            "skill": "Home maintenance",
+            "steps": [
+                "Create a cleaning schedule",
+                "Learn basic repair skills",
+                "Organize household items"
+            ]
+        }
+    ],
+    "technology_use": [
+        {
+            "skill": "Online safety",
+            "strategies": [
+                "Create strong passwords",
+                "Recognize online scams",
+                "Manage privacy settings"
+            ]
+        },
+        {
+            "skill": "Productivity tools",
+            "strategies": [
+                "Use calendar apps for scheduling",
+                "Utilize task management apps",
+                "Set up reminders and alerts"
+            ]
+        }
+    ],
+    "relationship_building": [
+        {
+            "skill": "Making friends",
+            "strategies": [
+                "Join interest-based groups",
+                "Practice conversation starters",
+                "Learn to maintain friendships"
+            ]
+        },
+        {
+            "skill": "Romantic relationships",
+            "strategies": [
+                "Understand consent and boundaries",
+                "Practice open communication",
+                "Learn about healthy relationship dynamics"
+            ]
+        }
+    ]
+}
